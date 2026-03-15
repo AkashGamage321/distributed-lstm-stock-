@@ -1,0 +1,5 @@
+KGAT_9fe9279ea0cc0c7b6d1983b915a76e4d
+
+export KAGGLE_API_TOKEN=KGAT_9fe9279ea0cc0c7b6d1983b915a76e4d
+
+kaggle competitions list
