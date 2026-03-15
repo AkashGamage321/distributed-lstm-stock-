@@ -21,4 +21,6 @@ def load_stock_dataframe(file_path):
 
     df = df.dropna()
 
+    df = df[:1000]
+
     return df
